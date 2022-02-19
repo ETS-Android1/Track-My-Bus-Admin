@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">TmB Admin</string>
+    <string-array name="Title">
+        <item>Add new Bus</item>
+        <item>Add new Student</item>
+        <item>Update Bus Detail</item>
+        <item>Update Student Info</item>
+    </string-array>
+    <string-array name="Description">
+        <item>This option is for adding new \n bus...</item>
+        <item>This option is for adding new \n student...</item>
+        <item>This option is for updating Bus...</item>
+        <item>This option is for updating student...</item>
+    </string-array>
+    <string-array name="Count">
+        <item>Bus Count</item>
+        <item>Student Count</item>
+        <item>Bus Count</item>
+        <item>Student Count</item>
+    </string-array>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="title_activity_forgot_password">Forgot_Password</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+</resources>
