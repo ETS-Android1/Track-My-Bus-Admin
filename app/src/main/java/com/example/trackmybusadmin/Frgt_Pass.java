@@ -18,6 +18,7 @@ public class Frgt_Pass extends AppCompatActivity {
         EditText inputid;
         FirebaseAuth auth;
         @Override
+        //comment
         protected void onCreate(Bundle savedInstanceState) {
             super.onCreate(savedInstanceState);
             setContentView(R.layout.activity_frgt_pass);
